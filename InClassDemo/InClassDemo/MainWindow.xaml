@@ -1,0 +1,65 @@
+﻿<Window x:Class="InClassDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InClassDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="520" Width="240">
+    <StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0">
+            <TextBlock TextWrapping="Wrap" Text="Class Name" FontSize="18" Margin="20,0,0,0"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0">
+            <TextBlock TextWrapping="Wrap" Text="Car" FontSize="16" FontWeight="Bold" Margin="20,0,0,0"/>
+        </StackPanel>
+        
+        <StackPanel Height="20" Margin="0,20,0,0">
+            <TextBlock TextWrapping="Wrap" Text="Data Members" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Model" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBox x:Name="boxModel" TextWrapping="Wrap" Text="" Width="120" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Year" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBox x:Name="boxYear" TextWrapping="Wrap" Text="" Width="120" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Price" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBox x:Name="boxPrice" TextWrapping="Wrap" Text="" Width="120" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Car Dealer" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBox x:Name="boxDealer" TextWrapping="Wrap" Text="" Width="120" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        
+        <Button x:Name="btnGenerateObject" Content="Generate Object" Margin="20,20,0,0" HorizontalAlignment="Left" Click="btnGenerateObject_Click"/>
+        <Button x:Name="btnDisplayObject" Content="Display Object" Margin="20,10,0,0" HorizontalAlignment="Left" Click="btnDisplayObject_Click"/>
+
+        <TextBlock TextWrapping="Wrap" Text="Class Name    Car" Margin="20,20,0,0" FontSize="16"/>
+        <TextBlock TextWrapping="Wrap" Text="Data Members" Margin="20,10,0,0" FontSize="16"/>
+
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Model" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="blkModel" TextWrapping="Wrap" Text="" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Year" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="blkYear" TextWrapping="Wrap" Text="" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Price" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="blkPrice" TextWrapping="Wrap" Text="" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+        <StackPanel Height="20" Margin="0,10,0,0" Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Car Dealer" Margin="20,0,0,0" FontSize="16" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="blkDealer" TextWrapping="Wrap" Text="" Margin="20,0,0,0" FontSize="16"/>
+        </StackPanel>
+
+
+
+    </StackPanel>
+
+</Window>

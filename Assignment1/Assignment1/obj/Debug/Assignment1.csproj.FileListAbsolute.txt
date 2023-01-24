@@ -1,0 +1,16 @@
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\MainWindow.g.cs
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\App.g.cs
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1_MarkupCompile.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1_MarkupCompile.lref
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\MainWindow.baml
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.g.resources
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Jake\Documents\GitHub\CST-1302\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

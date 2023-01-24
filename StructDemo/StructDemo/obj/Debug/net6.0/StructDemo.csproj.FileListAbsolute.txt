@@ -1,0 +1,15 @@
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.exe
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.deps.json
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.runtimeconfig.json
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.dll
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.pdb
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.csproj.AssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.AssemblyInfo.cs
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.dll
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\refint\StructDemo.dll
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.pdb
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.genruntimeconfig.cache
+C:\Users\Jake\Documents\GitHub\CST-1302\StructDemo\StructDemo\obj\Debug\net6.0\ref\StructDemo.dll
