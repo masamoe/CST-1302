@@ -1,0 +1,15 @@
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\bin\Debug\net6.0\FinalConsoleApp1.exe
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\bin\Debug\net6.0\FinalConsoleApp1.deps.json
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\bin\Debug\net6.0\FinalConsoleApp1.runtimeconfig.json
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\bin\Debug\net6.0\FinalConsoleApp1.dll
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\bin\Debug\net6.0\FinalConsoleApp1.pdb
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.AssemblyInfo.cs
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.dll
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\refint\FinalConsoleApp1.dll
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.pdb
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\FinalConsoleApp1.genruntimeconfig.cache
+C:\Users\000401934\Documents\GitHub\CST-1302\FinalConsoleApp1\FinalConsoleApp1\obj\Debug\net6.0\ref\FinalConsoleApp1.dll
